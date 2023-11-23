@@ -74,6 +74,10 @@
     text-align: center;
 }
 
+.preco-item a:hover {
+    background: #FFC436;
+}
+
 @media (max-width: 800px) {
     .preco {
         padding-left: 10px;

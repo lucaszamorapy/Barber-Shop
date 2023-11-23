@@ -3,6 +3,9 @@
 @import url('sobre.css');
 @import url('produtos.css');
 @import url('precos.css');
+@import url('qualidade.css');
+@import url('newsletter.css');
+@import url('footer.css');
 
 body, h1, h2, p, ul, li, a {
     margin: 0;
@@ -10,8 +13,8 @@ body, h1, h2, p, ul, li, a {
 }
 
 body {
-    background: #F5F7F8;
-    font-family: 'Oswald', serif;
+    background: white;
+    font-family: 'Poppins', sans-serif;
     color: #222222;
 }
 
