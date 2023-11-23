@@ -2,6 +2,7 @@
 @import url('menu.css');
 @import url('sobre.css');
 @import url('produtos.css');
+@import url('precos.css');
 
 body, h1, h2, p, ul, li, a {
     margin: 0;
